@@ -1,0 +1,73 @@
+*{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+}
+form{
+  border: solid black 1px;
+  width: 500px;
+  height: auto;
+  padding: 2% 2% 6%;
+  margin-top: 10%;
+}
+h3{
+  text-decoration: underline;
+}
+a{
+  display: block;
+  width: 60px;
+  font-size: 12px;
+  height: 15px;
+  background: grey;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 4%;
+  margin-right: 2%;
+  float: right;
+}
+#wrapper{
+  border: solid black 1px;
+  width: 500px;
+  height: auto;
+  padding: 2% 2% 4%;
+  margin-top: 10%;
+}
+p{
+  margin: 2% 2% 0%;
+  display: inline-block;
+}
+
+p.submit{
+  display: block;
+}
+
+p.result{
+  float: right;
+}
+input{
+  float: right;
+}
+select{
+  float: right;
+}
+textarea{
+  width: 96%;
+  height: 12%;
+  margin: 2%;
+}
+#button{
+  margin-right: 2%;
+  width: 60px;
+  font-size: 12px;
+  height: 24px;
+  background: grey;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+
+}
